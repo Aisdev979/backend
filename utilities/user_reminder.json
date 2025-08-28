@@ -4,7 +4,7 @@
     "Tasks": "Go to phone repair shop",
     "description": "To get new battery and phone charger",
     "date": "2025-08-25",
-    "time": 16:30",
+    "time": "16:45",
     "isDue": false
   },
   {
@@ -107,6 +107,6 @@
     "Task": "go to bank",
     "description": "Go POS instead, cant trick to bank",
     "date": "2025-08-28",
-    "time": "16:32"
+    "time": "16:43"
   }
 ]

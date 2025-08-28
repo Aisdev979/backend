@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "Tasks": "Go to phone repair shop",
+    "description": "To get new battery and phone charger",
+    "date": "2025-08-25",
+    "time": "11:20",
+    "isDue": false
+  },
+  {
+    "id": 2,
+    "Tasks": "Go to phone repair shop",
+    "description": "To get new battery and phone charger",
+    "date": "2025-08-25",
+    "time": "11:20",
+    "isDue": true
+  },
+  {
+    "id": 3,
+    "Tasks": "Go to phone repair shop",
+    "description": "To get new battery and phone charger",
+    "date": "2025-08-25",
+    "time": "13:20",
+    "isDue": true
+  },
+  {
+    "id": 5,
+    "Tasks": "Go to phone repair shop",
+    "description": "To get new battery and phone charger",
+    "date": "2025-08-25",
+    "time": "13:20",
+    "isDue": false
+  },
+  {
+    "id": 6,
+    "Tasks": "Go to phone repair shop",
+    "description": "To get new battery and phone charger",
+    "date": "2025-08-25",
+    "time": "13:20",
+    "isDue": false
+  },
+  {
+    "id": 7,
+    "Task": "Getting new charge",
+    "description": "Will be going to agbor park to get new charger",
+    "date": "2025-08-27",
+    "time": "18:08"
+  },
+  {
+    "id": 8,
+    "Task": "Getting new charge",
+    "description": "Will be going to new benin to get new charger",
+    "date": "2025-08-27",
+    "time": "17:58"
+  },
+  {
+    "id": 9,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference",
+    "date": "2025-08-28",
+    "time": "10:40"
+  },
+  {
+    "id": 10,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference",
+    "date": "2025-08-28",
+    "time": "10:42"
+  },
+  {
+    "id": 11,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference",
+    "date": "2025-08-28",
+    "time": "10:42"
+  },
+  {
+    "id": 12,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference",
+    "date": "2025-08-28",
+    "time": "10:45"
+  },
+  {
+    "id": 13,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference",
+    "date": "2025-08-28",
+    "time": "13:15"
+  },
+  {
+    "id": 14,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference",
+    "date": "2025-08-28",
+    "time": "15:17"
+  },
+  {
+    "id": 15,
+    "Task": "Attend tech conference",
+    "description": "Will be going to UNIBEN for a tech conference - glitchbox",
+    "date": "2025-08-28",
+    "time": "13:10"
+  },
+  {
+    "id": 16,
+    "Task": "go to bank",
+    "description": "Go POS instead, cant trick to bank",
+    "date": "2025-08-28",
+    "time": "15:20"
+  }
+]

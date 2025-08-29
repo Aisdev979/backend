@@ -11,9 +11,9 @@ cron.schedule('* * * * *', () => {
   const data = fs.readFileSync(remindersFile, 'utf8');
   const reminders = JSON.parse(data);
 
-  const hours = new Date().getHours();
-  const mins = new Date().getMinutes();
-  const time = [hours, mins].join(':');
+  const now = new Date();
+  const time = now.toTimeString().slice(0, 5); // "HH:MM"
+
 
   reminders.forEach((reminder) => {
     const currentDate = new Date().toISOString().split('T')[0];

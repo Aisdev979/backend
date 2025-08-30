@@ -1,6 +1,7 @@
 
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const fs = require('fs');
 
 const { sendConfirmationMails } = require('./utilities/mailing_system.js');
@@ -14,6 +15,7 @@ const usersReminder = JSON.parse(fs.readFileSync('./utilities/user_reminder.json
 const getIdIndex = require('./middlewares/findIndex.js');
 
 app.use(express.json());
+app.use(cors())
 
 app.get('/api/reminders', (req, res) => {
     res.status(200).send(usersReminder);

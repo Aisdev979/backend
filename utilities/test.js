@@ -1,3 +1,2 @@
-const now = new Date();
-const time = now.toTimeString().slice(0, 5); // "HH:MM"
-console.log(time)
+fetch('https://node-reminder-api.onrender.com/api/reminders')
+.then(res => console.log(res.json()))
